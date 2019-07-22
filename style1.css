@@ -1,0 +1,12 @@
+div.header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+   background-color: #24292e;;
+    color: white;
+     height:40px;
+     padding-top: 12px;
+     padding-bottom: 12px;
+
+
+}
